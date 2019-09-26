@@ -1,0 +1,11 @@
+C:\aulas\fgp2019_poo\trabalho01\bin\Debug\netcoreapp2.2\trabalho01.deps.json
+C:\aulas\fgp2019_poo\trabalho01\bin\Debug\netcoreapp2.2\trabalho01.runtimeconfig.json
+C:\aulas\fgp2019_poo\trabalho01\bin\Debug\netcoreapp2.2\trabalho01.runtimeconfig.dev.json
+C:\aulas\fgp2019_poo\trabalho01\bin\Debug\netcoreapp2.2\trabalho01.dll
+C:\aulas\fgp2019_poo\trabalho01\bin\Debug\netcoreapp2.2\trabalho01.pdb
+C:\aulas\fgp2019_poo\trabalho01\obj\Debug\netcoreapp2.2\trabalho01.csprojAssemblyReference.cache
+C:\aulas\fgp2019_poo\trabalho01\obj\Debug\netcoreapp2.2\trabalho01.csproj.CoreCompileInputs.cache
+C:\aulas\fgp2019_poo\trabalho01\obj\Debug\netcoreapp2.2\trabalho01.AssemblyInfoInputs.cache
+C:\aulas\fgp2019_poo\trabalho01\obj\Debug\netcoreapp2.2\trabalho01.AssemblyInfo.cs
+C:\aulas\fgp2019_poo\trabalho01\obj\Debug\netcoreapp2.2\trabalho01.dll
+C:\aulas\fgp2019_poo\trabalho01\obj\Debug\netcoreapp2.2\trabalho01.pdb
